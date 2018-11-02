@@ -1,0 +1,18 @@
+C:\Users\Максим\source\repos\ConsoleApp1\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\Максим\source\repos\ConsoleApp1\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\Максим\source\repos\ConsoleApp1\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.csprojResolveAssemblyReference.cache
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\Максим\source\repos\ConsoleApp1\Source\obj\Debug\netstandard2.0\Source.pdb
+C:\Users\Батя\Desktop\Новая папка\company\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\Батя\Desktop\Новая папка\company\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\Батя\Desktop\Новая папка\company\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.csproj.CoreCompileInputs.cache
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\Батя\Desktop\Новая папка\company\Source\obj\Debug\netstandard2.0\Source.pdb
